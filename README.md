@@ -1,23 +1,71 @@
-<h1 align="center">Hi 👋, I'm Trisharaj R</h1>
-<h3 align="center">Passionate about Automation Testing , Manual Testing , Core Java and SQL </h3>
+# 👋 Hi, I'm Trisharaj R  
+### 💼 Aspiring Software Test Engineer | Manual & Automation Testing | Java | Selenium
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trisharaj28&label=Profile%20views&color=0e75b6&style=flat" alt="trisharaj28" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
+I am a passionate Software Tester with strong skills in *Manual Testing, **Automation Testing, and **Java*.  
+Currently learning advanced concepts in *Selenium, TestNG, Maven, and API Testing*.  
+I enjoy analyzing product quality, identifying defects, and improving user experience.
 
-- 🌱 I’m currently learning **Software Testing**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/trisharaj28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/trisharaj28" height="30" width="40" /></a>
+## 🛠 Skills & Tools
+
+### 🔍 *Testing Skills*
+- ✔ Manual Testing  
+- ✔ SDLC & STLC  
+- ✔ Test Scenario & Test Case Design  
+- ✔ Test Execution  
+- ✔ Bug Reporting & Tracking  
+- ✔ Requirement Analysis  
+- ✔ Defect Life Cycle  
+
+---
+
+## 🧰 *Tools & Technologies*
+
+### *Programming & Automation*
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### *Testing Tools*
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/TestNG_Logo.png" width="45" height="45" />
+  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="90" height="45" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trisharaj28&show_icons=true&locale=en&layout=compact" alt="trisharaj28" /></p>
+### *Version Control*
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trisharaj28&show_icons=true&locale=en" alt="trisharaj28" /></p>
+### *Bug Tracking*
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="45" height="45" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trisharaj28&" alt="trisharaj28" /></p>
+### *Database*
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trisharaj28&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisharaj28&layout=compact&theme=dracula)
+
+---
+
+## 🔗 Connect with Me
+- *LinkedIn:* https://www.linkedin.com/in/trisharaj28  
+- *Email:* trishaveerashaivas@gmail.com  
+
+---
+
+⭐ Thanks for visiting my profile! Always exploring and learning in the world of Software Testing.
